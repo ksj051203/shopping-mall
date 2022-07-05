@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "바나나우유",
+      "provider": "빙그레",
+      "price": 1500,
+      "image": "/images/image001.png"
+    },
+    {
+      "id": 2,
+      "name": "메로나",
+      "provider": "빙그레",
+      "price": 1200,
+      "image": "/images/image002.png"
+    },
+    {
+      "id": 3,
+      "name": "콘칩",
+      "provider": "크라운",
+      "price": 1500,
+      "image": "/images/image003.png"
+    },
+    {
+      "id": 4,
+      "name": "마이쮸",
+      "provider": "크라운",
+      "price": 800,
+      "image": "/images/image004.png"
+    },
+    {
+      "id": 5,
+      "name": "불닭볶음면",
+      "provider": "삼양",
+      "price": 1600,
+      "image": "/images/image005.png"
+    },
+    {
+      "id": 6,
+      "name": "바리스타에스프레소라떼",
+      "provider": "매일",
+      "price": 2200,
+      "image": "/images/image006.png"
+    },
+    {
+      "id": 7,
+      "name": "스팸참치김치볶음밥",
+      "provider": "삼각",
+      "price": 1100,
+      "image": "/images/image007.png"
+    },
+    {
+      "id": 8,
+      "name": "하리보 젤리",
+      "provider": "하리보",
+      "price": 2000,
+      "image": "/images/image008.png"
+    }
+  ]
+}

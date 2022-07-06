@@ -38,9 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^4.0.0"
-  },
-  "homepage": "http://ksj051203.github.io/shopping-mall"
+  }
 }

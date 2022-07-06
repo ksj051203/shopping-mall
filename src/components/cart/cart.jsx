@@ -18,7 +18,7 @@ export const Cart = ({cart, setCart, convertPrice}) => {
           </div>
         ): (
           cart.map((cart) => {
-          return <CartList key={`key-${cart.id}`} cart={cart} convertPrice={convertPrice} />
+          return <CartList key={`key-${cart.id}`} cart={cart} setCart = {setCart} convertPrice={convertPrice} />
         })
         )}
         {cart.length === 0 ? "" : <TotalCart />}

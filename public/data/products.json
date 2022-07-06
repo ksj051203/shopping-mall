@@ -5,56 +5,43 @@
       "name": "바나나우유",
       "provider": "빙그레",
       "price": 1500,
-      "image": "/images/image001.png"
+      "image": "https://blog.kakaocdn.net/dn/4L2Vn/btrwkoWPFZr/gj2OaXU8A87BScPi8g3FF0/img.png"
+      
     },
     {
       "id": 2,
       "name": "메로나",
       "provider": "빙그레",
       "price": 1200,
-      "image": "/images/image002.png"
+      "image": "https://contents.lotteon.com/itemimage/LO/15/16/74/93/63/_1/51/67/49/36/4/LO1516749363_1516749364_1.jpg/dims/resizef/720X720"
     },
     {
       "id": 3,
       "name": "콘칩",
       "provider": "크라운",
       "price": 1500,
-      "image": "/images/image003.png"
+      "image": "https://m.movingpeople.kr/web/product/medium/202110/5d795d5fc12e4d33af2c2a8fe5c1113f.png"
     },
     {
       "id": 4,
       "name": "마이쮸",
       "provider": "크라운",
       "price": 800,
-      "image": "/images/image004.png"
+      "image": "https://contents.lotteon.com/itemimage/LO/16/21/85/22/03/_1/62/18/52/20/4/LO1621852203_1621852204_1.jpg/dims/resizef/720X720"
     },
     {
       "id": 5,
       "name": "불닭볶음면",
       "provider": "삼양",
       "price": 1600,
-      "image": "/images/image005.png"
+      "image": "http://m.officeplus.com/images/prdimg/F/FD/FD5/FD5331_ma.jpg"
     },
     {
       "id": 6,
       "name": "바리스타에스프레소라떼",
       "provider": "매일",
       "price": 2200,
-      "image": "/images/image006.png"
-    },
-    {
-      "id": 7,
-      "name": "스팸참치김치볶음밥",
-      "provider": "삼각",
-      "price": 1100,
-      "image": "/images/image007.png"
-    },
-    {
-      "id": 8,
-      "name": "하리보 젤리",
-      "provider": "하리보",
-      "price": 2000,
-      "image": "/images/image008.png"
+      "image": "https://sitem.ssgcdn.com/38/21/25/item/0000007252138_i1_1200.jpg"
     }
   ]
 }

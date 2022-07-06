@@ -2,6 +2,7 @@ import styles from "./cart.module.css";
 
 export const CartList = ({cart, convertPrice}) =>{
     console.log(cart);
+    
     return(
     <section className={styles.cart_product_list}>
         <input type="checkbox" />
@@ -19,14 +20,14 @@ export const CartList = ({cart, convertPrice}) =>{
         </div>
 
         <div className={styles.cart_product_count}>
-        <div className = {styles.minus} onClick = {() => handleQuantity("minus")}>
+        <div className = {styles.minus}>
               -
             </div>
 
           <div className={styles.count}>
             <span>{cart.quantity}</span>
           </div>
-          <div className={styles.plus} onClick = {() => handleQuantity("plus")}>
+          <div className={styles.plus}>
               +
             </div>
         </div>
